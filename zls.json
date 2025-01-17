@@ -1,0 +1,10 @@
+{
+  "zig_exe_path": "/root/.zvm/bin/zig",
+  "semantic_tokens": "partial",
+  "enable_build_on_save": true,
+  "global_cache_dir": "/root/.cache/zls",
+  "global_cache_path": "/root/.cache/zls",
+  "local_config_dir": "/root/.config",
+  "config_file": null,
+  "log_file": "/root/.cache/zls/zls.log"
+}
