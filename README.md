@@ -47,3 +47,14 @@
 9. GUI 应用
 10. 数据库开发
 11. CLI工具
+
+### small project
+1. json-server
+2. webdis
+3. wrk
+4. libae
+5. httprouter
+6. skynet
+7. sokit
+8. go-sniffer
+9. 
