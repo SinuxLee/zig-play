@@ -3,9 +3,10 @@
 0. [overview](https://ziglang.org/learn/samples/)
 1. [cookbook](https://cookbook.ziglang.cc/intro.html)
 2. [zigbook](https://pedropark99.github.io/zig-book/)
-3. [course](https://course.ziglang.cc/)
+3. [course](https://course.ziglang.cc/) 圣经
 4. [guide](https://zig.guide/)
 5. [zig std doc](https://ziglang.org/documentation/master/)
+6. [learning zig](https://ziglang.cc/learn/preface/)
 
 
 ### dev tools
@@ -22,7 +23,7 @@
    # tar
    zig fetch --save https://github.com/tidwall/btree.c/archive/v0.6.1.tar.gz
    ```
-4. mix and crose compile, c/c++/zig
+4. mix and cross compile, c/c++/zig
 5. [playground](https://playground.zigtools.org/)
 6. [zvm](https://github.com/ziglang/zvm)
 7. zig init, zig init-exe
@@ -57,4 +58,5 @@
 6. skynet
 7. sokit
 8. go-sniffer
-9. 
+9. httpie
+10. game server
